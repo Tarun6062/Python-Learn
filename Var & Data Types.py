@@ -19,7 +19,9 @@ print((C + txt)* 3)
 
 # Rule-3 String & numeric value can operate together with * operator 
 
-
+a,b = 2,3
+c = 4
+print(a+c*b)
   
 
 
