@@ -1,6 +1,6 @@
 # LISTS --> It is a built in data type which stores set of values
 # It can store elements of different types (int, string, float etc)
-
+     
 marks = [45.2,55,11,22,66,8,9,99]
 print(marks)
 print(type(marks))
