@@ -10,7 +10,7 @@ def calc_sum(a, b):                                      # Here def is a keyword
 
 calc_sum(1,2)
 
-calc_sum(33,22)
+calc_sum(33,22)   
 calc_sum(30,52)
 
 
