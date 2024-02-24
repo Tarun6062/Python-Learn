@@ -9,7 +9,7 @@ name = input("name :")
 # 2- int input
 
 age = int(input("age :"))
-
+   
 
 # 3- Float input
 
