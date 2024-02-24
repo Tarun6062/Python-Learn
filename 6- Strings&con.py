@@ -1,6 +1,6 @@
 # STRINGS
 # String is a datatype that stores a sequence of characters
-
+    
 str1 = "my name is tarun /n i am 22 years old" # here /n is a ESCAPE SEQUENCE CHARACTER which send the sentence to next line
 
 # Concatination
