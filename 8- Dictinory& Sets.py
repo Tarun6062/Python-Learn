@@ -1,7 +1,7 @@
 # Dictionary are used to store data values in ( KEY : VALUE ) pairs
 # They are UNORDERED , MUTABLE and do not allow Duplicate keys
 
-
+   
 info = {
     # "KEY"   : "Values"
     "name" : "tarun",
