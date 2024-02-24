@@ -15,7 +15,7 @@ s1 = Student()   # This is a object
 print(s1.name)
 
 s2 = Student()
-print(s2.name)
+print(s2.name)   
 
 class Car:
     color = "Blue"
