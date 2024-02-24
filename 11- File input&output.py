@@ -7,7 +7,7 @@
 # 1 -- TEXT FILE  ---:> Data which is stored in characters form
 #             EX :-       .txt, .docs,  .log
 
-# @ -- Binary Files ---:> 
+# @ -- Binary Files ---:>    
 
 
 #  "r"    --->  open for reading (deafult)
