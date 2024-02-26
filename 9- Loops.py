@@ -1,6 +1,6 @@
 # Loops are used to instruction
 
-# While Loop
+# While Loop   
 
 count = 1
 while count <= 5  :
