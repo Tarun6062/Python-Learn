@@ -18,7 +18,7 @@ a.info()
 b.info()
 
 #a.name = "Thor"
-#a.occ = "God"
+#a.occ = "God"   
 #a.info()
 
 
