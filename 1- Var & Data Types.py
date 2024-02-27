@@ -1,4 +1,4 @@
-name = "tarun"   # String (tarun)
+name = "tarun"   # String (tarun)   
 age = 22         # Int    (22)
 price = 22.9     # Float  (22.9)
 print(age)       # Function (print)
