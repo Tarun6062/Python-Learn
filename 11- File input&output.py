@@ -1,5 +1,5 @@
 # FILE I/O
-                 
+                    
 # Python can be used to perform operation on a file .( READ & Write data)
 
 # TYPES OF FILES
