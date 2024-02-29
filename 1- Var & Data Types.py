@@ -6,7 +6,7 @@ print(age)       # Function (print)
 
 # Expression Excution
    
-# Rule-1 String & Numeric value can operate with *
+# Rule-1 String & Numeric value can operate with * 
 
 A , B = 2 , 3
 txt = "@"
