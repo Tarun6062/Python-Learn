@@ -6,7 +6,7 @@
 def calc_sum(a, b):                                      # Here def is a keyword which means define
     sum = a + b 
     print(sum)
-    return sum
+    return sum 
 
 calc_sum(1,2)
 
