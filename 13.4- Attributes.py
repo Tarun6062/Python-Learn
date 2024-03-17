@@ -1,7 +1,7 @@
        
 
 # Class Attributes
-
+ 
 class Collage:
     Collage_name = "YOO"
     name = "nothing"         # Class attribute
