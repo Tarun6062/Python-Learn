@@ -1,7 +1,7 @@
 # Python is a Indentation language (Four spaces is required after :)
 
 
-# In conditional statement there is a condition while executing the program    
+# In conditional statement there is a condition while executing the program     
 # if-elif-else
 
 age = 22                  
