@@ -4,7 +4,7 @@ price = 22.9     # Float  (22.9)
 print(age)       # Function (print)
                  # OUTPUT - 22             
    
-# Expression Excution     
+# Expression Excution       
            
 # Rule-1 String & Numeric value can operate with * 
 
