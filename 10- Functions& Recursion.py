@@ -1,7 +1,7 @@
              
 # FUNCTIONS   -----> Block Of a statement that performs a specific task
 # the code which is repeted then we can use Functions 
-  
+    
                    
 def calc_sum(a, b):                                      # Here def is a keyword which means define
     sum = a + b 
