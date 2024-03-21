@@ -4,7 +4,7 @@
     
                    
 def calc_sum(a, b):                                      # Here def is a keyword which means define
-    sum = a + b 
+    sum = a + b  
     print(sum)
     return sum 
 
