@@ -11,7 +11,7 @@ a.name = "Tarun"
 a.occup = "Software developer"
 
 b.name = "kumu"
-b.occup = "HR"
+b.occup = "HR"  
 
 a.info() 
 b.info()
