@@ -2,7 +2,7 @@
 
 # Class Attributes
  
-class Collage:
+class Collage:  
     Collage_name = "YOO"
     name = "nothing"         # Class attribute
     
