@@ -1,7 +1,7 @@
 # Constructor   --> A Constructor is a special method in a class used to create and initialize an object of a class
 # Constructor   --> A Constructor is a unique function thats gets called automatically when an object is created  of a class
      
-class Person:      
+class Person:        
 #   name = " REDDY"
 #   occ = "Deops"
     def __init__(self, n , o):    # parametarized constructor
