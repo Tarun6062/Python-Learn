@@ -6,7 +6,7 @@ class Person:
         print(self.name, "is a ", self.occup, " and he is ", self.age, "years old")
         
 a = Person()
-b = Person()
+b = Person() 
 a.name = "Tarun"
 a.occup = "Software developer"
 
