@@ -9,7 +9,7 @@ a = Person()
 b = Person() 
 a.name = "Tarun"
 a.occup = "Software developer"
-
+ 
 b.name = "kumu"
 b.occup = "HR"  
 
